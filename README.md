@@ -1,7 +1,7 @@
 # Purple Cake
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/jker.purple-wave.svg)](https://marketplace.visualstudio.com/items?itemName=jker.purple-wave)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/jker.purple-wave.svg)](https://marketplace.visualstudio.com/items?itemName=jker.purple-wave)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/jker.purple-cake.png)](https://marketplace.visualstudio.com/items?itemName=jker.purple-cake)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/jker.purple-cake.png)](https://marketplace.visualstudio.com/items?itemName=jker.purple-cake)
 
 **Purple Cake** is a lovely and deliciously crafted VS Code theme using Purple as main color.
 

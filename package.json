@@ -1,0 +1,44 @@
+{
+	"name": "purple-cake",
+	"displayName": "Purple Cake",
+	"description": "Purple dark theme, lovely and deliciously crafted",
+	"version": "1.0.0",
+	"publisher": "jker",
+	"preview": true,
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/guidolee/jker-purple-cake.git"
+	},
+	"bugs": {
+		"url": "https://github.com/guidolee/jker-purple-cake/issues"
+	},
+	"keywords": [
+		"theme",
+		"minimal",
+		"oceanic",
+		"dark",
+		"purple",
+		"wave"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Purple Cake",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Purple-Cake-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a607c507-d986-4dd6-9042-cbd8c00d1dd5",
+		"publisherDisplayName": "jker",
+		"publisherId": "bafd1827-5cb9-43e5-af4b-a089255c35fb"
+	}
+}
